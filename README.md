@@ -27,3 +27,4 @@ The script.js file contains the following functions:
 clearDisplay(): Clears the display and resets it to 0.
 appendToDisplay(value): Appends the clicked button's value to the display.
 calculate(): Evaluates the expression shown in the display and updates the display with the result.# codealpha_task
+ Author - priya
